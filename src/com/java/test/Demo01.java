@@ -10,6 +10,7 @@ public class Demo01 {
         System.out.println("111222");
         System.out.println("卧槽！！无情！！");
         System.out.println("这是啥？");
+        System.out.println("人之初性本善");
 
     }
 }
